@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832887660350",
+    "project_id": "onlinestore-f3a3d",
+    "storage_bucket": "onlinestore-f3a3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832887660350:android:dec252711c7d523e13166f",
+        "android_client_info": {
+          "package_name": "online_store.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqjNNUhQnV40ZO9o2KjgzgH8osIxCdYrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
